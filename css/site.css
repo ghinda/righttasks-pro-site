@@ -1,0 +1,70 @@
+/* righttasks-pro site
+ */
+
+* {
+  box-sizing: border-radius:
+}
+
+body {
+  color: #333;
+}
+
+img {
+  max-width: 100%;
+}
+
+.content {
+  overflow: hidden;
+  max-width: 52em;
+  padding: 8em 1em;
+  margin: 0 auto;
+}
+
+/* hero
+ */
+
+.hero {
+  background: #ECEFF1;
+}
+
+.logo-pro {
+  width: 8em;
+  margin-bottom: .4em;
+}
+
+.hero .mdl-typography--headline {
+  margin-bottom: 3em;
+}
+
+.hero form p {
+  margin: 0;
+}
+
+/* extension
+ */
+
+.extension-starter {
+  margin-bottom: .4em;
+}
+
+.extension h2 {
+  margin-top: 0;
+}
+
+.extension h2 img {
+  height: .8em;
+  margin-right: .2em;
+
+  vertical-align: baseline;
+}
+
+.extension .mdl-typography--headline {
+  margin-bottom: 1em;
+}
+
+/* footer
+ */
+
+.footer {
+  border-top: 1px solid #ECEFF1;
+}
