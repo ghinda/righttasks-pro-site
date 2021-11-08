@@ -68,3 +68,22 @@ img {
 .footer {
   border-top: 1px solid #ECEFF1;
 }
+
+/* development card
+ */
+
+.development-card {
+  width: 80%;
+  background: #3E4EB8;
+}
+
+.development-card h4,
+.development-card p,
+.development-card a,
+.development-card .mdl-button {
+  color: #fff;
+}
+
+.development-card a {
+  font-weight: bold;
+}
